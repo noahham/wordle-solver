@@ -1,4 +1,4 @@
-# Wordle-Solver-1.1
+# Wordle-Solver
 
 This is a script to help you beat the daily Wordle.
 
