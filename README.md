@@ -1,4 +1,4 @@
-# Wordle-Solver
+# Wordle Solver
 
 This is a friendly user interface to help you beat the daily Wordle.
 
